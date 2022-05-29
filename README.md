@@ -8,6 +8,9 @@
 
 ## Result
 코드실행 후 아래와 같은 결과들이 출력되었다.
+
 ![result1](https://user-images.githubusercontent.com/89559437/170848608-6874f228-e2bb-47e1-bfd6-66cd7aa1a707.png)
+
 ![result2](https://user-images.githubusercontent.com/89559437/170848609-2037ef3f-7e97-4d4a-861e-f5438f8fee93.png)
+
 ![result3](https://user-images.githubusercontent.com/89559437/170848610-6ebe53c6-88d9-45f9-8695-3835b9dc8be6.png)
