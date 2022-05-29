@@ -21,6 +21,8 @@
   
 3) BOW(Bag-of-Words) 프로세스를 진행한다.
 
+4) 결과로써 나온 BOW 값들 중에서 최소 5이상의 값을 가지는 단어들을 출력한다.
+
 ## Result
 코드실행 후 아래와 같은 결과들이 출력되었다.
 
@@ -29,3 +31,13 @@
 ![result2](https://user-images.githubusercontent.com/89559437/170848609-2037ef3f-7e97-4d4a-861e-f5438f8fee93.png)
 
 ![result3](https://user-images.githubusercontent.com/89559437/170848610-6ebe53c6-88d9-45f9-8695-3835b9dc8be6.png)
+
+어느정도는 예상된 결과들이 나왔다. 
+
+그의 트윗중에서 가장 많은 빈도수를 가지고 있는 단어들은 대부분이 그의 회사인 Tesla Motors와 SpaceX와 같은 자동차산업과 우주산업에 관련된 단어들이 많았다.
+예를 들어, 'autopilot', 'launching', 'landing', 'car' 등등의 결과들이 나왔다. (개인적으로, 예상외로 도지코인이나 가상화폐에 관한 단어들이 나오지 않아서 좀 의외였다.)
+
+아래는 어느정도 간략화한 결과에 대한 차트이다.
+
+![chart 001](https://user-images.githubusercontent.com/89559437/170848614-be8de21e-54a8-41ce-b51b-76ad813cb8f8.jpeg)
+6c-568d-4055-9a4a-8891961d5a30.png)
