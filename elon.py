@@ -6,8 +6,6 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize 
 import pandas as pd 
 import re
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import SGDClassifier
 from sklearn import (datasets, svm, metrics)
 from sklearn.cluster import KMeans
 
@@ -19,7 +17,7 @@ stop_words = set(stopwords.words('english'))
 stop_words.update([',', '.','http', ':', ')', ';', '?', '!', '@', 'https', 'youtube.com', '%', '2018', '2019'])
 
 # pandas를 통해 csv파일을 불러와서 저장한다.
-elon = pd.read_csv('/Users/davidshinn/Desktop/ELON/projectELON/datasets/elonmusk.csv')
+elon = pd.read_csv('/datasets/elonmusk.csv')
 elon.drop(["Tweet", "UserScreenName", "UserName", "Emojis", "Comments", "Likes", "Retweets", "Image link", "Tweet URL"], axis=1, inplace=True)
 
 # 데이터프레임을 리스트 형식으로 변환한다
