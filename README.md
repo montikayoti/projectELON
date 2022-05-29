@@ -32,6 +32,8 @@
 
 ![result3](https://user-images.githubusercontent.com/89559437/170848610-6ebe53c6-88d9-45f9-8695-3835b9dc8be6.png)
 
+![result4](https://user-images.githubusercontent.com/89559437/170848611-4ab4d06c-568d-4055-9a4a-8891961d5a30.png)
+
 어느정도는 예상된 결과들이 나왔다. 
 
 그의 트윗중에서 가장 많은 빈도수를 가지고 있는 단어들은 대부분이 그의 회사인 Tesla Motors와 SpaceX와 같은 자동차산업과 우주산업에 관련된 단어들이 많았다.
@@ -40,4 +42,4 @@
 아래는 어느정도 간략화한 결과에 대한 차트이다.
 
 ![chart 001](https://user-images.githubusercontent.com/89559437/170848614-be8de21e-54a8-41ce-b51b-76ad813cb8f8.jpeg)
-6c-568d-4055-9a4a-8891961d5a30.png)
+
